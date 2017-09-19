@@ -1,2 +1,2 @@
-# monster
+# monsters
 Avatar generator in JS
